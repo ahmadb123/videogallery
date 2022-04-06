@@ -151,7 +151,7 @@ footer p {
     color: white;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
 
     header{
         text-align: center;
@@ -175,3 +175,4 @@ footer p {
         border: none;
     }
   }
+
